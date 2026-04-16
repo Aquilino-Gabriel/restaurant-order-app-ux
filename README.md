@@ -126,6 +126,4 @@ Possíveis evoluções para o projeto:
 - Testes com mais usuários
 - Transformação do protótipo em aplicação funcional
 
-- Link do Protótipo Testável: figma.com/proto/z9NsuleUK1mcKe0BtzbSBn/Fast-Bar--Community-?node-id=0-1&p=f&t=SVqG1Y57pNEdZ6Fw-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=74%3A2
-
 - Link do Protótipo direto do Figma: https://www.figma.com/design/z9NsuleUK1mcKe0BtzbSBn/Fast-Bar--Community-?node-id=0-1&p=f&t=SVqG1Y57pNEdZ6Fw-0
